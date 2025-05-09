@@ -23,7 +23,7 @@ Explorar o ambiente Azure e provisionar um recurso do **Data Factory** como part
 
 ## 📸 Print do Recurso Criado
 
-![ADF Criado](imagens/adf-criado.png)
+![ADF Criado](https://github.com/Rodrigo-Antonio-Silva/azure-data-factory/blob/52f29e9f4785d1a576e2bcd52cea3e3397f455fb/Captura%20de%20tela%202025-05-09%20162250.png)
 
 ---
 
